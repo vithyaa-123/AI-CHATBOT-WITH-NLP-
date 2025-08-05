@@ -23,6 +23,8 @@ Understand natural language typed by users.
 Identify the user’s intent (greeting, asking time, weather, etc.).
 
 Respond with relevant, predefined answers using a rule-based approach.
+# output
+![Image](https://github.com/user-attachments/assets/7b488de9-c24d-44f5-b6d3-75ff2cd74ed2)
 
 
 While it does not connect to external APIs like weather services, it showcases how conversational logic and basic intent recognition work in a chatbot system using NLP techniques.
